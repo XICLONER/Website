@@ -1,0 +1,42 @@
+body {
+    background-image: url("Images/3026.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+* {
+    font-family: Pontano Sans;
+    margin: 0;
+    padding: 0;
+}
+
+
+#depression {
+    background-color: rgba(238, 255, 0, 0.315);
+    width: 70%;
+    height: 30%;
+    padding-left: 3cm;
+    padding-right: 1cm;
+    padding-top: 1cm;
+}
+
+
+.title {
+    font-family: Dancing Script;
+    font-size: 1.5cm;
+}
+
+.story {
+    line-height: 2;
+    font-size: larger;
+}
+
+#colorspersonalitypartone {
+    background-color: rgba(52, 197, 255, 0.384);
+    width: 70%;
+    height: 30%;
+    padding-left: 3cm;
+    padding-right: 1cm;
+    padding-top: 1cm;
+}
