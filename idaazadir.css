@@ -1,3 +1,8 @@
+* {
+    font-family: Pontano Sans;
+    margin-left: 3%;
+}
+
 body {
     background-image: url("Images/3026.jpg");
     background-repeat: no-repeat;
@@ -5,38 +10,36 @@ body {
     background-attachment: fixed;
 }
 
-* {
-    font-family: Pontano Sans;
-    margin: 0;
-    padding: 0;
-}
-
-
-#depression {
-    background-color: rgba(238, 255, 0, 0.315);
-    width: 70%;
-    height: 30%;
-    padding-left: 3cm;
-    padding-right: 1cm;
-    padding-top: 1cm;
-}
-
-
 .title {
     font-family: Dancing Script;
     font-size: 1.5cm;
 }
 
-.story {
+.text {
     line-height: 2;
     font-size: larger;
 }
 
-#colorspersonalitypartone {
+#depression {
+    background-color: rgba(238, 255, 0, 0.315);
+    width: 70%;
+    height: 30%;
+    margin-left: 10%;
+
+}
+
+#colorspersonality {
     background-color: rgba(52, 197, 255, 0.384);
     width: 70%;
     height: 30%;
-    padding-left: 3cm;
-    padding-right: 1cm;
-    padding-top: 1cm;
+    margin-left: 10%;
+
+}
+
+#library {
+    background-color: rgba(204, 5, 105, 0.397);
+    width: 70%;
+    height: 30%;
+    margin-left: 10%;
+
 }
